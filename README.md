@@ -191,4 +191,3 @@ La base `incidents_db` est creee automatiquement.
 ## 12. Documentation
 
 - `docs/diagrammes.md` : architecture generale, diagramme des entites, sequence d'une requete protegee (Mermaid)
-- `docs/travail-de-recherche.md` : reponses aux sections "Travail de recherche" (JPA, JWT, codes HTTP, refresh token...)
